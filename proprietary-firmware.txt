@@ -1,4 +1,4 @@
-# Firmware for model SM-N970F - from Samsung package version N970FXXS8HWA1
+# Firmware for model SM-N970F - from Samsung package version N970FXXS9HWHA
 
 cm.bin_SM-N970F
 dqmdbg.img_SM-N970F
