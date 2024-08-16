@@ -39,6 +39,12 @@ TARGET_SCREEN_WIDTH := 1080
 ## Inherit some common Lineage stuff
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
+MATRIXX_BUILD_TYPE := Official
+MATRIXX_MAINTAINER := FrEeRuNnEr4EvEr
+MATRIXX_CHIPSET := exynos9825
+MATRIXX_BATTERY := 3500mah
+MATRIXX_DISPLAY := 1080x2280
+
 ## Device identifier, this must come after all inclusions
 PRODUCT_NAME := lineage_d1x
 PRODUCT_DEVICE := d1x
