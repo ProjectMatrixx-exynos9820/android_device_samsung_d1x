@@ -1,18 +1,18 @@
 # Firmware for model SM-N971N - from Samsung package version N971NKSU2HWH5
 
-cm.bin_SM-N971N
-dqmdbg.img_SM-N971N
-keystorage.bin_SM-N971N
-modem.bin_SM-N971N
-modem_5g.bin_SM-N971N
-modem_debug.bin_SM-N971N
-modem_debug_5g.bin_SM-N971N
-param.bin_SM-N971N
-sboot.bin_SM-N971N
-uh.bin_SM-N971N
-up_param.bin_SM-N971N
+cm.bin_SM-N971N|57dab058b20145fe48fc90ea654c8abb02ad118e
+dqmdbg.img_SM-N971N|d9f65b11623b7c917cf007f9fcab59b29246d7a8
+keystorage.bin_SM-N971N|e17979841f0106ee198c2da7a864ad7e19f93595
+modem.bin_SM-N971N|cfabed9f5d27289cdf7fe9e665b0f71042cca1db
+modem_5g.bin_SM-N971N|789d5aa5caf15ee0820d22861f00a216a1a4617f
+modem_debug.bin_SM-N971N|d60b151798abb7ed32df0d3622c826e779817ca8
+modem_debug_5g.bin_SM-N971N|e2064f9c568bbf33c3fe4c00b36a6035925a882c
+param.bin_SM-N971N|34b2949d086dc083c3002c9db69c47aa644a454b
+sboot.bin_SM-N971N|a43a9584485b0ddc1e64a0f856564eb07421d0be
+uh.bin_SM-N971N|588352b9dd200dda3f1177a5a1b5016a3d8a6929
+up_param.bin_SM-N971N|edf02798d5bf2e767dd6c83a01b939fa0523d0b3
 
 # File containing the supported models, one per line
-models
+models|ce1091c8b3e0998f48145fc55bbcf47ff417d5ad
 # Files containing Samsung package version for supported models
-version_SM-N971N
+version_SM-N971N|bb65baff6f760245e726aa8cbb3286ad87dffe98
