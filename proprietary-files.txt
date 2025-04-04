@@ -26,7 +26,7 @@ vendor/firmware/bcm4375B1_semco_sem.hcd
 
 ## Camera - from d1x - N971NKSU2GULF
 vendor/lib64/hw/camera.exynos9825.so|63a55d3796921c03c331a63fa57cd17987442677
-vendor/lib64/libexynoscamera3.so|3a4fed71f0b1488303a16fa2b35be67d620153cd|3a4fed71f0b1488303a16fa2b35be67d620153cd
+vendor/lib64/libexynoscamera3.so|45ccf1a42bba2d759c802b02ef2f7fb3f3e3fb2e|45ccf1a42bba2d759c802b02ef2f7fb3f3e3fb2e
 
 ## Camera Firmware
 vendor/firmware/fimc_is_fw_mcu.bin
