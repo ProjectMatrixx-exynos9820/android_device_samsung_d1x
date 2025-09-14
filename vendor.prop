@@ -3,5 +3,5 @@ bluetooth.device.default_name=Galaxy Note10 5G
 
 ## Fingerprint
 ro.vendor.fingerprint.type=udfps
-ro.vendor.fingerprint.sensor_location=540|1750|112
+ro.vendor.fingerprint.sensor_location=540|1750|112|local:4633128672291735937
 ro.vendor.fingerprint.force_calibrate=true
